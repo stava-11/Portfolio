@@ -14,6 +14,5 @@ This is a basic hello world program that I created to practice and also demonstr
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Version Control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [Github in VS Code](https://code.visualstudio.com/docs/editor/github)
