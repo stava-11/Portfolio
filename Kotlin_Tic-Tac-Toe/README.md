@@ -4,7 +4,7 @@ This is an app written in Kotlin using Android Studio. It is a version of Tic-Ta
 someone sitting next to you. It keeps track of turns, doesn't let you change input and tells you who the winner is if there is one.
 I created this app to learn how to build an app in Kotlin.
 
-[Software Demo Video](https://youtu.be/XeZk6zRGq7k)
+[Software Demo Video](https://youtu.be/1Z2Dz6zXIn4)
 
 # Development Environment
 
