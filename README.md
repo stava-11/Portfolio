@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Overview
 
 This is a basic hello world program that I created to practice and also demonstrate using VS Code, Git/Github, and Python.
@@ -34,4 +34,4 @@ This is a basic hello world program that I created to practice and also demonstr
 
 * [Version Control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [Github in VS Code](https://code.visualstudio.com/docs/editor/github)
->>>>>>> c9751b259540688e942649754c0963cea630296d
+
