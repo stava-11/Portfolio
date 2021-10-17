@@ -3,7 +3,7 @@
 This is an app written in Kotlin using Android Studio. It is the beginning of an app that allows you to use intents to take a picture with the phone's camera
 and then send the image to a contact.
 
-[Software Demo Video](https://youtu.be/1Z2Dz6zXIn4)
+[Software Demo Video](https://youtu.be/xiOOwCXyjfI)
 
 # Development Environment
 
